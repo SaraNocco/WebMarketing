@@ -1,5 +1,4 @@
-# WebMarketing
-Web Marketing & Communication Management - Course Project
+# Web Marketing & Communication Management - Course Project
 
 Disclosure: for copyright reasons, datasets and preprocessing scripts (mainly developed by the course professor) are not made available.
 
